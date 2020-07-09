@@ -31,7 +31,7 @@
                         <div class="form-left">
                             <label>
                                 邮 箱
-                            </label>
+                            </label> 
                             <input type="email" id="email" name="email" required="" <?php echo "value=".$res_array['regemail']."" ?> >
                         </div>
                     </div>
