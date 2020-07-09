@@ -30,7 +30,7 @@
             <div class="article_title">
                 <h2><?php echo $article_info['title']; ?></h2>
                 <div class="author_time">
-                    <?php 
+                    <?php  
                          echo '<a>发布时间：'.mb_substr($article_info['pubtime'],0,10,'UTF-8').'</a>';
                          echo '<a>作者：'.$article_info["author"].'</a>';
                      ?>
