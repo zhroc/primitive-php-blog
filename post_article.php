@@ -27,7 +27,7 @@
                     <div class="btnn">
                         <input type="submit" name="submit" value="发布">
                     </div>
-                </form>
+                </form> 
             </div>
         </div>
         <div class="post_fix"></div>
