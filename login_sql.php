@@ -30,7 +30,7 @@ else {
             $_SESSION["uid"] = $uid;
             setcookie("user_Id", md5("eryueyixun"));
             header("location:user_center.php");
-        }
+        } 
         else
             {
             echo "<script language='javascript' type='text/javascript'>";
