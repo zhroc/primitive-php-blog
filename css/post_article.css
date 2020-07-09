@@ -1,0 +1,72 @@
+.post_bg{
+    background-color: #F5F5F5;
+}
+.post_fix{
+    height: 50px;
+}
+.post_art_main{
+    width: 70%;
+    background-color: #FFF;
+    margin: 0px auto;
+    padding:20px;
+    text-align: center;
+    border-radius:10px;
+    border:1px solid rgba(192,192,192,0.3);
+    transition: all 0.3s;
+}
+
+.post_art_main:hover {
+    box-shadow: 2px 5px 10px 1px rgba(192,192,192,0.5);
+}
+.post_art_main h2{
+    padding: 20px;
+    margin: 0px;
+    text-align: center;
+}
+.province{
+    text-align: right;
+    padding-right: 15%;
+    padding-bottom: 10px; 
+}
+.post_form{
+    /*background-color: #FFF;*/
+}
+.post_form form input{
+    width: 70%;
+    height: 40px;
+    margin:20px;
+}
+.post_form form textarea{
+    width: 70%;
+    height: 300px;
+    margin:20px;
+}
+.post_form label{
+    font-size:20px;
+    margin-right: 10px; 
+}
+.btnn {
+    width: 100%;
+    text-align:center;
+}
+
+.btnn input[type="submit"] {
+    border-radius: 50px;
+    text-transform: uppercase;
+    background: #3691bf;
+    color: #FFFFFF;
+    padding:11px 15px;
+    border: none;
+    font-size: 15px;
+    outline: none;
+    width: 15%;
+    letter-spacing: 1px;
+    margin-top: 35px;
+    cursor: pointer;
+    transition: 0.5s all;
+}
+ 
+.btnn input[type="submit"]:hover {
+    color: #000;
+    background: #02699c;
+}

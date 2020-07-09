@@ -1,0 +1,50 @@
+
+.left_menu{
+    font-family: -apple-system,BlinkMacSystemFont,opensans,Optima,"Microsoft Yahei",sans-serif;
+    /*float: left;*/
+    width: 20%;
+    height: 240px;
+    background-color: #ffffff;
+    /*margin: 20px auto;*/
+    margin-top:50px; 
+    margin-left: 1.5%;
+    border:1px solid rgba(192,192,192,0.3);
+    transition: all 0.5s;
+    border-radius: 5px;
+    position:fixed;
+    text-align: center;
+}
+.left_menu:hover {
+    box-shadow: 2px 5px 10px 1px rgba(192,192,192,0.5);
+}
+.right_menu{
+    font-family: -apple-system,BlinkMacSystemFont,opensans,Optima,"Microsoft Yahei",sans-serif;
+    /*float: right;*/
+    width: 20%;
+    height: 240px;
+    background-color: #ffffff;
+    /*margin: 20px auto;*/
+    margin-top:50px; 
+    margin-left: 78.5%;
+    border:1px solid rgba(192,192,192,0.3);
+    transition: all 0.5s;
+    border-radius: 5px;
+    position:fixed;
+    text-align: center;
+}
+.right_menu:hover {
+    box-shadow: 2px 5px 10px 1px rgba(192,192,192,0.5);
+}
+.right_menu h3, .left_menu h3{
+    text-align: center;
+    color: #99CCFF;
+    padding-bottom: 20px;
+}
+.main{
+    /*height: 1600px;*/
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    margin:0px auto;
+}

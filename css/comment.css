@@ -1,0 +1,37 @@
+.bg_comment{
+    background-color: #f5f5f5;
+    font-family: -apple-system,BlinkMacSystemFont,opensans,Optima,"Microsoft Yahei",sans-serif;
+    line-height: 1.8;
+    font-size: 16px;
+    font-weight: 300;
+    overflow-x: hidden;
+    margin: 0;
+}
+.comment{
+    width: 960px;
+    background-color: #ffffff;
+    margin: 20px auto;
+    margin-top: 20px;
+    border: 1px solid rgba(192,192,192,0.3);
+    transition: all 0.5s;
+}
+.comment:hover {
+    box-shadow: 2px 5px 10px 1px rgba(192,192,192,0.5);
+}
+.comment p{
+
+    padding-left: 20px;
+}
+.comment h2{
+    text-align: center;
+    font-weight: 500;
+}
+#time{
+    text-align: right;
+    padding-right: 30px;
+    float: right;
+}
+.com_time{
+    /*float: right;*/
+    display:inline-block;
+}

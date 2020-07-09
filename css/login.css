@@ -1,0 +1,113 @@
+
+
+
+body {margin: 0px;}
+.bg{
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    /*background-image: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);*/
+    background-image: url("http://api.mtyqx.cn/api/random.php");
+}
+
+
+
+
+            .login h1{color: #FFFFFF;}
+
+            .login {
+                width: 320px;
+                background: rgba(0,0,0,.2);
+                padding: 0 20px 0 20px;
+                top: 0;
+                left: 15%;
+                position: fixed;
+                box-shadow: 0 0 5px 0 #333;
+                height: 100%;
+                overflow-y: auto;
+            }
+            .login form {
+                padding: 24px;
+                font-weight: 400;
+                background: rgba(255,255,255,.2);
+                border: none;
+                box-shadow: #000 0 0 10px -1px;
+                overflow:hidden;
+            }
+            .login form .input, .login input[type=text] {
+                color: #555;
+                font-weight: 200;
+                font-size: 17px;
+                text-indent: 3px;
+                line-height: 1.4;
+                width: 96%;
+                padding: 5px;
+                margin-top: 2px;
+                margin-right: 6px;
+                margin-bottom: 16px;
+                border: 2px solid #DCE4EC;
+                background: #FFFFFF;
+                outline: 0;
+            }
+            .code {
+                height: 40px;
+                width: 100%;
+            }
+            .login_input{
+                float: left;
+                width: 48%;
+            }
+            .captcha{
+                float: right;
+            }
+            .code input[type=text] {
+                color: #555;
+                font-weight: 200;
+                font-size: 17px;
+                text-indent: 3px;
+                line-height: 1.4;
+                width: 96%;
+                padding: 5px;
+                margin-top: 2px;
+                margin-right: 6px;
+                margin-bottom: 16px;
+                border: 2px solid #DCE4EC;
+                background: #FFFFFF;
+                outline: 0;
+            }
+            .login input[type=text]:focus, textarea:focus {
+                border-color:rgba(82, 168, 236, 0.8);
+                box-shadow: 0 0 8px rgba(103, 166, 217, 1);
+            }
+            .login form .input[type=password]:focus, textarea:focus {
+                border-color:rgba(82, 168, 236, 0.8);
+                box-shadow: 0 0 8px rgba(103, 166, 217, 1);
+            }
+            .login label {
+                color: #FFF;
+                font-size: 14px;
+            }
+            .login .button-primary {
+                font-size: 14px!important;
+                font-weight: 700;
+                float: right;
+                background: #007cba;
+                border-color: #007cba;
+                color: #fff;
+                border-radius: 3px;
+                padding: 6px 15px ;
+                cursor:pointer;
+            }
+            .button-primary:hover {
+                background: #0071a1;
+                border-color: #0071a1;
+                color: #fff;
+            }
+            .nav a , .backsign a {
+                font-size:13px;
+                color: #FFFFFF;
+                text-decoration: none;
+            }
+            .nav a {float:right;}
+            .footer a:hover{color:#0071a1;｝

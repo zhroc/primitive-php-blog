@@ -1,0 +1,135 @@
+.main-main{
+    background-color: #f5f5f5;
+    font-family: -apple-system,BlinkMacSystemFont,opensans,Optima,"Microsoft Yahei",sans-serif;
+    line-height: 1.8;
+    font-size: 16px;
+    font-weight: 300;
+    overflow-x: hidden;
+    margin: 0;
+}
+
+.main-main a{ 
+    text-decoration: none;
+    color: #848484;
+}
+.main-main a:hover {
+    color:#3399FF;
+}
+
+.new-blog{
+    width: 720px;
+    height: 220px;
+    background-color: #ffffff;
+    margin: 0px auto;
+    margin-bottom:20px; 
+    border:1px solid rgba(192,192,192,0.3);
+    transition: all 0.5s;
+}
+.new-blog:hover {
+    box-shadow: 2px 5px 10px 1px rgba(192,192,192,0.5);
+}
+.cover{
+    float: left;
+    width: 240px;
+    height: 145px;
+    overflow: hidden;
+    margin: 20px;
+}
+.inner-new{
+    padding: 0 10px 0 0;
+}
+.header-new{
+    font-family: -apple-system,BlinkMacSystemFont,opensans,Optima,"Microsoft Yahei",sans-serif;
+    line-height: 1.8;
+    font-size: 16px;
+    color: #848484;
+    font-weight: 300;
+}
+.title-new a{
+    font-size: 21px;
+    font-weight: 400;
+    color: #333;
+}
+.title-new a:hover{
+    color:#3399FF;
+}
+.meta-new{
+    padding: 3px 20px;
+    border-top: 1px solid #f3f3f3;
+    line-height: 27px;
+    overflow: hidden;
+    display: block;
+    clear: both;
+    font-size: 14px;
+    background: rgba(253,253,253,.7);
+}
+.meta-new a{
+    margin-right: 10px;
+}
+.pull-left{
+    float: left;
+}
+.pull-right{
+    float: right;
+}
+
+
+
+
+.bat_bottom{
+    height: 100px;
+    width: 100%;
+}
+
+
+
+
+.turn_page{
+    text-align: center;
+}
+.page{
+    width: 145px;
+    padding:  20px ;
+    margin: 0 auto;
+}
+#nav {
+    list-style: none;
+    display: inline;
+}
+#nav li {
+    display: inline;
+    margin-right: 5px;
+    float: left;
+    height: 30px;
+    width: 30px;
+}
+#nav a {
+    text-decoration: none;
+    display: block;
+    font-size: 14px;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    border: 1px solid #999;
+    width: 25px;
+    height: 25px;
+    line-height: 20px;
+    text-align: center;
+}
+#nav li a:hover {
+    font-size: 24px;
+    line-height: 30px;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    z-index: 10;
+    margin: -5px 0 0 -5px;
+    font-weight: bold;
+    color: #3399FF;
+    border: 1px dotted #666666;
+    background: #EEE;
+}
+.main_top{
+    height: 50px;
+    background-color: #f5f5f5;
+}
+
+

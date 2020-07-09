@@ -1,0 +1,40 @@
+.user_center{
+    background-color: #f5f5f5;
+    font-family: -apple-system,BlinkMacSystemFont,opensans,Optima,"Microsoft Yahei",sans-serif;
+    line-height: 1.8;
+    font-size: 16px;
+    font-weight: 300;
+    overflow-x: hidden;
+    margin: 0;
+    padding-left: 10%; 
+}
+.big_menu{
+    /*width: 1200px;*/
+    margin:0 auto;
+}
+.center_menu{
+    float: left;
+    width: 28%;
+    height: 240px;
+    background-color: #ffffff;
+    margin: 20px auto;
+    margin-top:20px; 
+    margin-right: 20px;
+    border:1px solid rgba(192,192,192,0.3);
+    transition: all 0.5s;
+    border-radius: 8px;
+}
+.center_menu:hover {
+    box-shadow: 2px 5px 10px 1px rgba(192,192,192,0.5);
+}
+.big_menu a{
+    font-size:20px;
+    color:#99CCFF;
+    text-align: center;
+}
+.center_menu h3{
+    /*font-weight: 300;*/
+}
+.center_menu h3:hover {
+
+}
