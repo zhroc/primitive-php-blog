@@ -31,7 +31,7 @@
             <a href="./index.php">
                 <h2>二月一寻 | 1024黑</h2><br>
                 <span>若无闲事挂心头，便是人间好时节</span>
-            </a>
+            </a> 
         </div>
     </div>
     <!-- <div class="filter"></div> -->
