@@ -28,7 +28,7 @@
                     <div class="code">
                         <div class="login_input"><input type="text" value="" name="code" required="required"></div><div class="captcha"><img width = "125px" src="check_code.php" style="cursor:pointer" onclick="this.src='./check_code.php?id='+Math.random()"></div>
                     </div>
-                </p>
+                </p> 
 
                 <p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> <label for="rememberme">记住我的登录信息</label>
                 </p>
