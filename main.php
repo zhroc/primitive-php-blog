@@ -86,7 +86,7 @@
                  ?>
                 <li><a href="<?php  ?>">尾</a></li>
             </ul>
-        </div>
+        </div> 
     </div>
     <div class="bottom"></div>
 </div>
