@@ -41,6 +41,6 @@
                 <h3>正在开发<br><br><img src="./images/dev.png" alt="敬请期待" width='72'></h3></div>
             </a>
         </div>
-    </div>
+    </div> 
     <?php require("./footer.php"); ?>
  </html>
