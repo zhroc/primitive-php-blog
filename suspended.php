@@ -32,7 +32,7 @@
                 <a href='./sign.php'>
                     <h3>注册账号</h3>
                     <img src='./images/exit.png' alt='注册账号' width='72'>
-                </a>
+                </a> 
             </div>";
     }
  ?>
