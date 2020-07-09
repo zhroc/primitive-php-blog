@@ -28,7 +28,7 @@
         $regsex = $_POST['sex'];
         $regqq = $_POST['qq'];
 
-        $regpwd = password_hash($regpwd,PASSWORD_DEFAULT);
+        $regpwd = password_hash($regpwd,PASSWORD_DEFAULT); 
 
         $sign_sql = "INSERT INTO adminuser (regname, regpwd, regqq, regemail, regsex, islock, fig)
          VALUES ('".$regname."', '".$regpwd."', '".$regqq."', '".$regemail."', '".$regsex."', 0, 0);";
