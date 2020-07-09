@@ -55,7 +55,7 @@
     	imageline($image, rand(1,99), rand(1,29),rand(1,99), rand(1,29) ,$linecolor);
     }
  
-    header('content-type:image/png');
+    header('content-type:image/png'); 
 	imagepng($image);
  
     //销毁
