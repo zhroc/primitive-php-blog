@@ -8,4 +8,7 @@
 **演示站点**
 - https://demo.cooleryue.cn/phpblog
 
+**完整源码**
+- https://github.com/5261314/phpblog/releases
+
 有空再补充详细点
