@@ -29,7 +29,7 @@
             echo "location.href='./blog_article.php?list=".$fileid."#comments';"; 
             echo "</script>";
             exit();
-    
+     
         }    
     }
     @session_start();
