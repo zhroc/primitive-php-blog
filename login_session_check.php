@@ -6,4 +6,4 @@
         echo "window.location.href='login.php';";
         echo "</script>";
     }
- ?>
+ ?> 
