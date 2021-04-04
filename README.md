@@ -8,6 +8,15 @@
 **演示站点**
 - https://demo.cooleryue.cn/phpblog
 
+**项目截图**
+![image](https://raw.githubusercontent.com/5261314/Primitive-php-blog/master/images/1.png)
+![image](https://raw.githubusercontent.com/5261314/Primitive-php-blog/master/images/2.png)
+![image](https://raw.githubusercontent.com/5261314/Primitive-php-blog/master/images/3.png)
+![image](https://raw.githubusercontent.com/5261314/Primitive-php-blog/master/images/4.png)
+![image](https://raw.githubusercontent.com/5261314/Primitive-php-blog/master/images/5.png)
+![image](https://raw.githubusercontent.com/5261314/Primitive-php-blog/master/images/6.png)
+![image](https://raw.githubusercontent.com/5261314/Primitive-php-blog/master/images/7.png)
+
 **完整源码**
 - https://github.com/5261314/phpblog/releases
 
