@@ -9,6 +9,7 @@
 - https://demo.cooleryue.cn/phpblog
 
 **项目截图**
+
 ![image](https://raw.githubusercontent.com/5261314/Primitive-php-blog/master/images/1.png)
 ![image](https://raw.githubusercontent.com/5261314/Primitive-php-blog/master/images/2.png)
 ![image](https://raw.githubusercontent.com/5261314/Primitive-php-blog/master/images/3.png)
