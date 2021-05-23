@@ -6,7 +6,7 @@
 - 特别感谢大佬的UI为我期末交作业节省不少时间
 
 **演示站点**
-- https://demo.cooleryue.cn/phpblog
+- https://lab.cooleryue.cn/phpblog
 
 **项目截图**
 
