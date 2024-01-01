@@ -28,7 +28,7 @@
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=zhroc/campus-service-wecha&type=Date)](https://star-history.com/#zhroc/campus-service-wecha&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=zhroc/primitive-php-blog&type=Date)](https://star-history.com/#zhroc/primitive-php-blog&Date)
 
 ## 贡献者
 
