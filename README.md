@@ -25,3 +25,23 @@
 - 由于未对提交的字段进行过滤，为避免sql注入等恶意攻击，请勿轻易部署到服务器
 
 - 有空再补充详细点
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=zhroc/campus-service-wecha&type=Date)](https://star-history.com/#zhroc/campus-service-wecha&Date)
+
+## 贡献者
+
+<!-- readme: collaborators,contributors -start -->
+<table>
+  <tr>
+      <td align="center">
+          <a href="https://github.com/zhroc">
+              <img src="https://avatars.githubusercontent.com/u/46491966?v=4" width="100;" alt="zhroc"/>
+              <br />
+              <sub><b>zhroc</b></sub>
+          </a>
+      </td>
+  </tr>
+</table>
+<!-- readme: collaborators,contributors -end -->
